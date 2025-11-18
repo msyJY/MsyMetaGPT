@@ -1,0 +1,7 @@
+llm:
+  api_type: "dashscope"
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: "sk-61ad871dec3d438283a5905564b4f440"
+  model: "qwen2.5-32b-instruct"
+  max_token: 4096
+  temperature: 0.0

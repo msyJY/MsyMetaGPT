@@ -1,0 +1,11 @@
+llm:
+  api_type: "ollama"
+  model: "qwen2-custom:latest"
+  api_key: ""
+  base_url: "http://localhost:11434"
+
+workspace:
+  path: "/Users/gedun/Downloads/metagpt-integrated/workspace"
+  use_uid: false
+
+
